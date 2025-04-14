@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: 1 hora
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_contenidos_IEEI_masterbio_UCO/refs/heads/2024_2025/imagenes/portada.jpg" alt="portada" style="zoom:200%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_contenidos_IEEI_masterbio_UCO/refs/tags/2024-2025/imagenes/portada.jpg" alt="portada" style="zoom:200%;" />
 
 
 
@@ -28,8 +28,7 @@ A su vez, los objetivos de la asignatura son:
 
 ## Hilo argumental
 
-En [esta](https://github.com/aprendiendo-cosas/Te_contenidos_IEEI_masterbio_UCO/raw/refs/heads/2024_2025/presentacion/presentacion_asignatura.pptx) presentación se muestran los contenidos de la clase.
-
+En [esta](https://github.com/aprendiendo-cosas/Te_contenidos_IEEI_masterbio_UCO/raw/refs/tags/2024-2025/presentacion/presentacion_asignatura.pptx) presentación se muestran los contenidos de la clase.
 
 
 ****
@@ -40,7 +39,7 @@ En [esta](https://github.com/aprendiendo-cosas/Te_contenidos_IEEI_masterbio_UCO/
 
 
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_contenidos_IEEI_masterbio_UCO/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_contenidos_IEEI_masterbio_UCO/archive/refs/tags/2024-2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_contenidos_IEEI_masterbio_UCO/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
