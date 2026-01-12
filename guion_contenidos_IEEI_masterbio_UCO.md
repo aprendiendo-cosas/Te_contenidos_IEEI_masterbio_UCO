@@ -1,7 +1,7 @@
 # Contenidos de la asignatura
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>
-> + **_Versión_**: 2024-2025
+> + **_Versión_**: 2025-2026
 > + **_Asignatura (titulación)_**: Interacciones Ecológicas y Especies Invasoras (master biodiversidad UCO)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: 1 hora
@@ -28,7 +28,7 @@ A su vez, los objetivos de la asignatura son:
 
 ## Hilo argumental
 
-En [esta](https://github.com/aprendiendo-cosas/Te_contenidos_IEEI_masterbio_UCO/raw/refs/tags/2024-2025/presentacion/presentacion_asignatura.pptx) presentación se muestran los contenidos de la clase.
+En [esta](https://github.com/aprendiendo-cosas/Te_contenidos_IEEI_masterbio_UCO/raw/refs/heads/main/presentacion/presentacion_asignatura.pptx) presentación se muestran los contenidos de la clase.
 
 
 ****
